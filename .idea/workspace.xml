@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15fff968-fa36-4c57-8979-25c0fc87cb44" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/lastpinyougou-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/lastpinyougou-dao/target/" />
+    <ignored path="$PROJECT_DIR$/lastpinyougou-common/target/" />
+    <ignored path="$PROJECT_DIR$/lastpinyougou-sellergoods-interface/target/" />
+    <ignored path="$PROJECT_DIR$/lastpinyougou-sellergoods-service/target/" />
+    <ignored path="$PROJECT_DIR$/lastpinyougou-manager-web/target/" />
+    <ignored path="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service-f/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="applicationContext-service.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service/src/main/resources/spring/applicationContext-service.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-manager-web/src/main/resources/spring/springmvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="618">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lastpinyougou-pojo/src/main/java/com/pinyougou/pojo/TbCities.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-pojo/src/main/java/com/pinyougou/pojo/TbContent.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-pojo/src/main/java/com/pinyougou/pojo/TbContentCategory.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-pojo/src/main/java/com/pinyougou/pojo/TbFreightTemplate.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-pojo/src/main/java/com/pinyougou/pojo/TbGoods.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-pojo/src/main/java/com/pinyougou/pojo/TbGoodsDesc.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-pojo/src/main/java/com/pinyougou/pojo/TbItem.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-pojo/src/main/java/com/pinyougou/pojo/TbItemCat.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-pojo/src/main/java/com/pinyougou/pojo/TbOrder.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-pojo/src/main/java/com/pinyougou/pojo/TbOrderItem.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-pojo/src/main/java/com/pinyougou/pojo/TbPayLog.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-pojo/src/main/java/com/pinyougou/pojo/TbProvinces.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-pojo/src/main/java/com/pinyougou/pojo/TbSeller.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-pojo/src/main/java/com/pinyougou/pojo/TbSpecification.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-pojo/src/main/java/com/pinyougou/pojo/TbSpecificationOption.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-pojo/src/main/java/com/pinyougou/pojo/TbTypeTemplate.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-pojo/src/main/java/com/pinyougou/pojo/TbUser.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-sellergoods-interface/src/main/java/com/lastpinyougou/sellergoods/service/BrandService.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-sellergoods-service/src/main/java/com/lastpinyougou/sellergoods/service/impl/BrandServiceImp.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-manager-web/src/main/java/com/lastpinyougou/manager/controller/BrandController.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-dao/src/main/resources/properties/db.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/lastpinyougou-sellergoods-service/pom.xml" />
+        <option value="$PROJECT_DIR$/lastpinyougou-manager-web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/lastpinyougou-sellergoods-service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/lastpinyougou-sellergoods-service/src/main/java/com/lastpinyougou/sellergoods/service/impl/BrandServiceImpl.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-sellergoods-service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/lastpinyougou-sellergoods-service/src/main/java/com/lastpinyougou/sellergoods/service/impl/BrandServiceImpl.java" />
+        <option value="$PROJECT_DIR$/lastpinyougou-sellergoods-service/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/lastpinyougou-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/lastpinyougou-dao/src/main/resources/properties/db.properties" />
+        <option value="$PROJECT_DIR$/lastpinyougou-dao/src/main/resources/spring/applicationContext-dao.xml" />
+        <option value="$PROJECT_DIR$/lastpinyougou-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service-f/pom.xml" />
+        <option value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/resources/properties/db.properties" />
+        <option value="$PROJECT_DIR$/../lastpinyougouparent/pom.xml" />
+        <option value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/resources/com/lastpinyougou/mapper/TbUserMapper.xml" />
+        <option value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/java/lastpinyougou/pojo/TbPayLogExample.java" />
+        <option value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/java/com/lastpinyougou/mapper/TbOrderMapper.java" />
+        <option value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/resources/spring/applicationContext-dao.xml" />
+        <option value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service-f/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service-f/src/main/java/com/lastpinyougou/sellergoods/service/impl/BrandServiceImp.java" />
+        <option value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service-f/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-manager-web/src/main/java/com/lastpinyougou/manager/controller/BrandController.java" />
+        <option value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service/src/main/java/com/lastpinyougou/sellergoods/service/impl/BrandServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-manager-web/src/main/resources/spring/springmvc.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/..///java/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="C:\java\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lastpinyougou-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lastpinyougou-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lastpinyougou-sellergoods-service-f" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lastpinyougou-sellergoods-service-f" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Run Configurations" type="21c1f71a:MavenProjectsStructure$RunConfigurationsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="776" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lastpinyougouparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lastpinyougouparent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lastpinyougouparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lastpinyougouparent" type="462c0819:PsiDirectoryNode" />
+              <item name="lastpinyougou-manager-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lastpinyougouparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lastpinyougouparent" type="462c0819:PsiDirectoryNode" />
+              <item name="lastpinyougou-manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lastpinyougouparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lastpinyougouparent" type="462c0819:PsiDirectoryNode" />
+              <item name="lastpinyougou-manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lastpinyougouparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lastpinyougouparent" type="462c0819:PsiDirectoryNode" />
+              <item name="lastpinyougou-manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lastpinyougouparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lastpinyougouparent" type="462c0819:PsiDirectoryNode" />
+              <item name="lastpinyougou-manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29411766" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\lastpinyougouparent\lastpinyougou-dao\src\main\resources" />
+      <recent name="C:\lastpinyougouparent\lastpinyougou-dao\src\main\java" />
+      <recent name="C:\lastpinyougouparent\lastpinyougou-sellergoods-service-f\src\main\resources\spring" />
+      <recent name="C:\lastpinyougouparent\lastpinyougou-pojo\src\main\java" />
+      <recent name="C:\lastpinyougouparent\lastpinyougou-sellergoods-service\src\main\webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\lastpinyougouparent\lastpinyougou-sellergoods-service-f\src\main" />
+      <recent name="C:\lastpinyougouparent\lastpinyougou-sellergoods-service\src\main" />
+      <recent name="C:\lastpinyougouparent\lastpinyougou-sellergoods-service\web\WEB-INF" />
+      <recent name="C:\lastpinyougouparent\lastpinyougou-sellergoods-service\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.lastpinyougou-manager-web">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="lastpinyougoudao" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Test.testAutoWire" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lastpinyougoudao" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="testAutoWire" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Test.testAutowire" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lastpinyougoudao" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="testAutowire" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="lastpinyougou-manager-web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-manager-web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="lastpinyougou-sellergoods-service-f" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service-f" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="lastpinyougou-sellergoods-service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="lastpinyougouparent" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../lastpinyougouparent" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.lastpinyougouparent" />
+      <item itemvalue="Maven.lastpinyougou-manager-web" />
+      <item itemvalue="Maven.lastpinyougou-sellergoods-service" />
+      <item itemvalue="Maven.lastpinyougou-sellergoods-service-f" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="JUnit.Test.testAutowire" />
+      <item itemvalue="JUnit.Test.testAutoWire" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test.testAutoWire" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.Test.testAutowire" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15fff968-fa36-4c57-8979-25c0fc87cb44" name="Default" comment="" />
+      <created>1549119845079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549119845079</updated>
+      <workItem from="1549119847731" duration="7250000" />
+      <workItem from="1549176980147" duration="5909000" />
+      <workItem from="1549183071669" duration="12962000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test_testAutowire - 2019.02.03 at 19h 12m 06s.xml">
+      <configuration name="Test.testAutowire" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testAutoWire - 2019.02.03 at 19h 28m 07s.xml">
+      <configuration name="Test.testAutoWire" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testAutoWire - 2019.02.03 at 19h 49m 04s.xml">
+      <configuration name="Test.testAutoWire" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testAutoWire - 2019.02.03 at 19h 49m 36s.xml">
+      <configuration name="Test.testAutoWire" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26121000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.25700164" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.100494236" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3540091" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="7" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../java/jdk10/lib/src.zip!/java.base/jdk/internal/loader/ClassLoaders.java</url>
+          <line>189</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://SpringLocalModels/module=lastpinyougoudao">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>SpringLocalModels</ID>
+          <OriginalElement>module=lastpinyougoudao</OriginalElement>
+          <nodes>
+            <node x="" y="">module=lastpinyougoudao</node>
+            <node x="" y="">fileset=lastpinyougoudao/Spring Application Context</node>
+            <node x="" y="">filePath=C:/lastpinyougouparent/lastpinyougou-dao/src/main/resources/spring/applicationContext-dao.xml</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="326.0" y="11.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Show filesets as groups</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/java/com/lastpinyougou/mapper/TbBrandMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/java/com/lastpinyougou/mapper/TbAddressMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../java/jdk10/lib/src.zip!/java.base/jdk/internal/loader/BuiltinClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="579" selection-start-line="579" selection-end-line="579" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../java/jdk10/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="369" selection-start-line="369" selection-end-line="369" />
+          <folding>
+            <element signature="e#12901#12902#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../java/jdk10/lib/src.zip!/java.base/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="498" selection-start-line="498" selection-end-line="498" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../java/jdk10/lib/src.zip!/java.base/jdk/internal/loader/ClassLoaders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="189" selection-start-line="189" selection-end-line="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2916">
+          <caret line="108" column="32" selection-start-line="108" selection-start-column="32" selection-end-line="108" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/resources/com/lastpinyougou/mapper/TbUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="745">
+          <caret line="458" column="21" lean-forward="true" selection-start-line="458" selection-start-column="21" selection-end-line="458" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/java/com/mapper/TbAddressMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/java/com/mapper/TbProvincesMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/java/com/mapper/TbOrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/resources/lastpinyougou/mapper/TbAddressMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/resources/lastpinyougou/pojo/TbOrder.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/resources/lastpinyougou/pojo/TbContent.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/resources/lastpinyougou/pojo/TbUserExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/resources/lastpinyougou/pojo/TbAddress.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/resources/lastpinyougou/mapper/TbProvincesMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/resources/lastpinyougou/pojo/TbTypeTemplateExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/resources/lastpinyougou/pojo/TbUser.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/resources/lastpinyougou/mapper/TbOrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/resources/lastpinyougou/pojo/TbPayLogExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/java/com/lastpinyougou/mapper/TbAddressMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/java/lastpinyougou/pojo/TbOrder.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/java/lastpinyougou/pojo/TbContent.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/java/lastpinyougou/pojo/TbUserExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/java/lastpinyougou/pojo/TbAddress.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/java/com/lastpinyougou/mapper/TbProvincesMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/java/lastpinyougou/pojo/TbTypeTemplateExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/java/lastpinyougou/pojo/TbUser.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/java/lastpinyougou/pojo/TbPayLogExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/java/com/lastpinyougou/mapper/TbOrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/resources/com/lastpinyougou/mapper/TbItemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/resources/mybatis/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="87" selection-start-line="87" selection-end-line="91" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/resources/properties/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+          <folding>
+            <element signature="e#1210#1223#0" expanded="true" />
+            <element signature="e#1312#1330#0" expanded="true" />
+            <element signature="e#1368#1386#0" expanded="true" />
+            <element signature="e#1431#1447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-dao/src/test/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-manager-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1701" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-manager-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-manager-web/src/main/resources/config/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-manager-web/src/main/java/com/lastpinyougou/manager/controller/BrandController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service-f/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service-f/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service-f/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="105" column="21" lean-forward="true" selection-start-line="105" selection-start-column="21" selection-end-line="105" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service/src/main/java/com/lastpinyougou/sellergoods/service/impl/BrandServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service-f/src/main/java/com/lastpinyougou/sellergoods/service/impl/BrandServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-sellergoods-service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lastpinyougouparent/lastpinyougou-manager-web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>lastpinyougousellergoodsservice:Web2 exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19270073" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19270073" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19270073" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|lastpinyougousellergoodsservicef</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29411766" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19270073" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19270073" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
